@@ -8,6 +8,7 @@
 2. GitHub adalah website atau layanan online yang digunakan untuk menyimpan repository Git dan memudahkan beberapa orang bekerja sama dalam satu project.
 3. Branch adalah cabang dalam sebuah project.
 4. Commit adalah menyimpan perubahan yang sudah kita buat ke dalam riwayat Git.
+5. Push adalah mengirim commit dari komputer kita ke repository online, misalnya GitHub.
 
  
 
